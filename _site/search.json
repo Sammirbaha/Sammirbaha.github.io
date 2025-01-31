@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sam Mirbaha",
+    "section": "",
+    "text": "This Is Sam Mirbaha\n\nplot(iris)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Sam is a Data Science Graduate Student\n\nplot(mtcars)"
+  }
+]

@@ -1,0 +1,9 @@
+---
+title: "Sam Mirbaha"
+---
+
+This Is Sam Mirbaha
+
+```{r}
+plot(iris)
+```
