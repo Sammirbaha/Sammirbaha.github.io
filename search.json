@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sam Mirbaha",
+    "section": "",
+    "text": "Hello World!\n\nplot(iris)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a design scientist. UX/UI is my discipline. Life is my lab. I’m also a true crime fan, a moderate handyman, The okayest pickleball player, and a general geek. Myers-Briggs: INFP. My humor? Think “dad jokes.”\n\nplot(mtcars)"
+  }
+]
